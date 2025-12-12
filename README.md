@@ -10,9 +10,7 @@ src/
 ├── Main.java
 └── SnakeGame.java
 README.md
-.gitignore
 LICENSE
-TODO.md
 screenshots/
 
 Run using IDE
